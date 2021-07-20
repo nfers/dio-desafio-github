@@ -1,0 +1,3 @@
+Registrarei aqui as observações gerais sobre dúvidas e melhores práticas durante o curso
+
+Link do repositório: https://github.com/nfers/dio-desafio-github.git
