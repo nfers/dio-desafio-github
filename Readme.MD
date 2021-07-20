@@ -3,5 +3,6 @@
 Repositório criado para o desafio do projeto ✅
 
 ## Links úteis: 
-[Sintaxe Básica MarkDown](https://www.markdownguide.org/)
-[Digital Innovation One](https://digitalinnovation.one/)
+*[Sintaxe Básica MarkDown](https://www.markdownguide.org/)*
+
+*[Digital Innovation One](https://digitalinnovation.one/)*
